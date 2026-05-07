@@ -6,6 +6,8 @@ Stack N Shop is a high-fidelity, professional-grade SaaS dashboard built with PH
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue)
 ![Theme](https://img.shields.io/badge/Theme-Light%2FDark-success)
 
+<img width="1907" height="943" alt="image" src="https://github.com/user-attachments/assets/aed31a04-bc31-460c-9479-32a245ddbcc8" />
+
 ## ✨ Features
 
 - **Elite UI/UX**: Premium glassmorphism design with fluid typography and SaaS tokens.

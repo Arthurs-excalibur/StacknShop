@@ -6,7 +6,26 @@ Stack N Shop is a high-fidelity, professional-grade SaaS dashboard built with PH
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue)
 ![Theme](https://img.shields.io/badge/Theme-Light%2FDark-success)
 
-<img width="1907" height="943" alt="image" src="https://github.com/user-attachments/assets/aed31a04-bc31-460c-9479-32a245ddbcc8" />
+<h2>Preview</h2>
+
+<p float="left">
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/794734ee-c2ed-4102-848f-f3266f39f00e" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/aed31a04-bc31-460c-9479-32a245ddbcc8" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/32e014c9-feff-4164-a8a6-e8f34e1c2901" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/7deacbef-cba0-4f65-a728-e80c4bef3ec5" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/3352f800-d7f9-42fe-9a31-35741e7ee759" />
+</p>
+
+<p float="left">
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/d6f8b450-7a1c-48e8-be83-865ae72d6772" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/3d0e2622-1b62-46ee-80a8-8c747c1e2aeb" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/70e7159c-186f-41e6-af19-864f91840cd6" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/ee83efb3-2c52-4916-9226-7e62cb19f660" />
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/f996e209-e020-44d2-99c0-056b767bf5b5" />
+
+</p>
+
+
 
 ## ✨ Features
 
